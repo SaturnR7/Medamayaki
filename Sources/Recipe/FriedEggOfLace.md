@@ -1,11 +1,5 @@
 # レースの目玉焼き（Huevos fritos con puntillas）
 
-<span align="center">
-
-<img src=https://img.shields.io/badge/Recipe-001-FC02FF>
-
-</span>
-
 ### 白身と黄身を分けて作るスペイン風の目玉焼き
 
 黄身がとろーり、白身がカリッ。
