@@ -1,10 +1,10 @@
 # Medamayaki
 
-<span align="center">
+<div align="center">
 
 <img src=https://img.shields.io/badge/Recipe-001-FC02FF>
 
-</span>
+</div>
 
 ## Let me know your Favorite Fried Eggs Recipe
 
